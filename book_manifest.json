@@ -1,0 +1,157 @@
+﻿{
+    "group_id":  7,
+    "subject":  "Computer Science / ICT",
+    "required_minimum_books":  15,
+    "books":  [
+                  {
+                      "book_id":  "G7-BOOK-01",
+                      "filename":  "A_Philosophy_of_Software_Design_-_John_Ousterhout.pdf",
+                      "title":  "A_Philosophy_of_Software_Design_-_John_Ousterhout",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-02",
+                      "filename":  "An_Introduction_to_Programming_and_Computer_-_Clayton_Cafiero.pdf",
+                      "title":  "An_Introduction_to_Programming_and_Computer_-_Clayton_Cafiero",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-03",
+                      "filename":  "Backend_Software_Architecture_Using_-_Bharat_Chandra_Baddepudi.pdf",
+                      "title":  "Backend_Software_Architecture_Using_-_Bharat_Chandra_Baddepudi",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-04",
+                      "filename":  "basic_computer_architecture_-_smruti_r_sarangi.pdf",
+                      "title":  "basic_computer_architecture_-_smruti_r_sarangi",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-05",
+                      "filename":  "Compiler_Design_-_Knowledge_Flow.pdf",
+                      "title":  "Compiler_Design_-_Knowledge_Flow",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-06",
+                      "filename":  "Ethical_Hacking_A_Hands-on_Introduction_to_Breaking_In.pdf",
+                      "title":  "Ethical_Hacking_A_Hands-on_Introduction_to_Breaking_In",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-07",
+                      "filename":  "Operating_Systems_Three_Easy_Pieces_-_Remzi_H_Arpaci-Dusseau.pdf",
+                      "title":  "Operating_Systems_Three_Easy_Pieces_-_Remzi_H_Arpaci-Dusseau",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-08",
+                      "filename":  "Practical_Malware_Analysis_-_Michael_Sikorski.pdf",
+                      "title":  "Practical_Malware_Analysis_-_Michael_Sikorski",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-09",
+                      "filename":  "Software_Testing_Strategies_-_Panagiotis_Leloudas.pdf",
+                      "title":  "Software_Testing_Strategies_-_Panagiotis_Leloudas",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-10",
+                      "filename":  "The_Art_of_Software_Testing_-_MR2.pdf",
+                      "title":  "The_Art_of_Software_Testing_-_MR2",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-11",
+                      "filename":  "The_Hardware_Hacker_-_Andrew_Bunnie_Huang.pdf",
+                      "title":  "The_Hardware_Hacker_-_Andrew_Bunnie_Huang",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-12",
+                      "filename":  "The_Hundred-Page_Machine_Learning_Book_-_Andriy_Burkov.pdf",
+                      "title":  "The_Hundred-Page_Machine_Learning_Book_-_Andriy_Burkov",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-13",
+                      "filename":  "The_Web_Application_Hackers_Handbook_Discovering_and_Exploiting_Security_Flaws_-_Dafydd_Stuttard__Marcus_Pinto.pdf",
+                      "title":  "The_Web_Application_Hackers_Handbook_Discovering_and_Exploiting_Security_Flaws_-_Dafydd_Stuttard__Marcus_Pinto",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-14",
+                      "filename":  "Think_Like_a_Programmer_-_V_Anton_Spraul.pdf",
+                      "title":  "Think_Like_a_Programmer_-_V_Anton_Spraul",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  },
+                  {
+                      "book_id":  "G7-BOOK-15",
+                      "filename":  "Think_Python_3rd_Ed_Third_Early_Release_-_Allen_B_Downey.pdf",
+                      "title":  "Think_Python_3rd_Ed_Third_Early_Release_-_Allen_B_Downey",
+                      "author":  "",
+                      "edition":  "",
+                      "subject":  "Computer Science / ICT",
+                      "approval_status":  "approved",
+                      "processing_status":  "not_processed"
+                  }
+              ]
+}
